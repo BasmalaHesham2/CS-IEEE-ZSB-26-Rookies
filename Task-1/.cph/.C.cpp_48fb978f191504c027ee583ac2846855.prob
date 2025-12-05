@@ -1,1 +1,0 @@
-{"name":"Local: C","url":"d:\\CS-IEEE-ZSB’26-Rookies\\Task-1\\C.cpp","tests":[{"id":1764858039389,"input":"7","output":"YES\n4\n1 2 4 7\n3\n3 5 6"},{"id":1764858064375,"input":"6","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CS-IEEE-ZSB’26-Rookies\\Task-1\\C.cpp","group":"local","local":true}
