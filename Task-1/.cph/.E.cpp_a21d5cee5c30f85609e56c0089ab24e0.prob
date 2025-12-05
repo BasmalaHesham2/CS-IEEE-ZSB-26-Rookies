@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\CS-IEEE-ZSB’26-Rookies\\Task-1\\E.cpp","tests":[{"id":1764880966949,"input":"4 8\n2 7 5 1","output":"2 4"},{"id":1764883745316,"input":"5 4\n1 2 2 7 5","output":"2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CS-IEEE-ZSB’26-Rookies\\Task-1\\E.cpp","group":"local","local":true}

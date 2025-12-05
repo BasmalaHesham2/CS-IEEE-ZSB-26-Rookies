@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\CS-IEEE-ZSB’26-Rookies\\Task-1\\F.cpp","tests":[{"id":1764936853590,"input":"8\n2 5 1 4 8 3 2 5","output":"0 1 0 3 4 3 3 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CS-IEEE-ZSB’26-Rookies\\Task-1\\F.cpp","group":"local","local":true}
